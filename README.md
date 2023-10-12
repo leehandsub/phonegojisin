@@ -17,50 +17,53 @@
 ## 서비스
 
 ### Splash
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/dc90f3a3-b51c-45bb-8f7d-401952ee8549" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/4da7ff30-f08f-4e2e-97c0-cf3061a2570b" width="20%">
 
 ### 홈화면
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/2b2592ff-872c-42ae-b428-511a3aa71542" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/6dfdef17-59fe-4623-91fe-1958c2d3fee9" width="20%">
 
 ### 기기 대여
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/3f74c9b3-62ee-45f0-b604-85dd75eb8df4" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/eb0a3d67-5650-4728-8f83-60971aa0acca" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/d9a657d5-7770-432c-972f-e67c399a1cec" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/1805ea25-dc42-4f7a-b927-3f9e3d949155" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/786f3c66-ed6c-4dab-af4f-c5100d052405" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/27892ae1-762c-48e2-9034-8440e86fbbd7" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/3ca3f651-61d6-458d-9263-6f1ab4612f8b" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/d04fb3e5-edae-47af-bfae-c11bb8c5e544" width="20%">
 
 ### 기기 반납
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/cb3dcebd-7fc8-4287-86eb-f2b6c0eb0618" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/85a45512-b5da-43ec-8178-de5b8d6767eb" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/7aa1cc53-a69a-463f-aae0-d22e1b1f53d2" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/cd070209-4019-4572-8d2d-d29c8eea2435" width="20%">
 
 ### 기기 기증
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/e1eb8bb7-74c0-4b97-9cda-67fdfe1c04d5" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/b7810479-7161-4b6a-ade8-43e076570e8f" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/94a579bc-8f51-4239-9401-f8b671053ac4" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/02dfb5bb-9cf5-4cb5-8460-3c055c5e0f48" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/1b5186d7-2325-4b9d-bf9e-c483f2005b44" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/bf35da28-46dc-4beb-8557-e61e0e999558" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/13c924ee-d448-4147-9046-9672d6530a6a" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/bd667b82-0760-4895-a4df-9051db6ad5f8" width="20%">
 
 ### 플러스 기능
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/24bb3e61-e999-4934-ad6b-7959a06151fa" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/a594463d-0a9d-4dc8-a7f2-a8a466b3159f" width="20%">
 
 ### 플러스 기능 사진
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/09de97a8-f88a-4cfe-9014-0ef57329270d" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/fb7f2ae6-5fff-4e11-bc36-90630ae223fe" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/8315ec1c-c75b-427e-ab36-ce988d8bd54e" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/0607060f-8bb0-46a7-a3b9-8d238f4245f4" width="20%">
 
 ### 사진 영상
-<video src="https://github.com/leehandsub/phonegojisin/assets/35682233/2c472cdf-7900-45f2-a88d-e45243831f53" width="20%"></video>
+<video src="https://github.com/leehandsub/phonegojisin/assets/35682233/74dc6d49-39d4-4bf0-931d-4b10fe5b8ef5" width="20%"></video>
 
 ### 플러스 기능 리모컨
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/447f8923-5635-4359-87cb-3caf97bba3d5" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/2eaa99cc-5860-4fd8-a9bb-b5f711ed1e29" width="20%">
 
 ### 리모컨 영상
-<video src="https://github.com/leehandsub/phonegojisin/assets/35682233/06c488ef-d8f0-4647-9a2e-b31fcf9727ea"></video>
+<video src="https://github.com/leehandsub/phonegojisin/assets/35682233/0741b5bd-7f98-418a-8a83-b364a891c282"></video>
 
 ### 마이페이지
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/868cb31b-38bc-4f49-b036-0812dd0f857e" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/be5d697b-7a39-444e-b165-cd1abdfd1296" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/0cd90734-eec5-4df1-9ebb-0bd2f1aa391f" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/5749ef5b-cd3a-4d24-a3d7-8d53604272f9" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/e4611a6b-f441-4fda-a0d7-493d7d30c8d7" width="20%">
-<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/7c574630-1137-4e1d-97fd-71f9c76e8ac3" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/d49975f6-7f23-4e01-98a8-5b058e43c229" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/1fe4dcb4-b7cc-484e-9182-5086e59b75e3" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/d512ffb7-8361-48b3-9881-c58c4eccfbcd" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/2c9180b1-686c-4e84-a8f8-d55116da0d96" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/f869ac41-afbc-4ca4-9fe4-731a775868d1" width="20%">
+<img src="https://github.com/leehandsub/phonegojisin/assets/35682233/78ed6a08-3efb-444d-b884-88820d19339f" width="20%">
+
+
+
 
 ## ✅ 기술 스택
 
